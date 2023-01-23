@@ -32,7 +32,10 @@ Download the code:
 
 
 ## Features
-- Analisa listas no formato `.m3u` e verifica se seus links estão {c:green}Online{/c} ou {c:red}Offline{/c} Este é um {c:#B81365}texto colorido com hexadecimal{/c} [fa=check-circle /] Meu Ícone <span style="color:red">cardeais</span>.
+- Analisa listas no formato `.m3u` e verifica se seus links estão Online ou Offline
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
 - `Arquivos_Salvos`
 `Listas_Vistas`
 `offline_list`
