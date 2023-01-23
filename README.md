@@ -13,3 +13,33 @@ Once the file is selected, it opens the file and parses the links, if the link i
 It also prints the status of the links, if it's online or offline.
 
 Overall, this script can be useful for checking the availability of links in an M3U file, which can be useful for IPTV streaming, for example.
+
+![Preview of post](https://github.com/juliofmendes/Instagram-post-generator-IGPG/blob/main/example_line_7.jpg)
+<img src="https://github.com/juliofmendes/Instagram-post-generator-IGPG/blob/main/example_line_7.jpg" width="100" height="100">
+
+
+## How to Instal
+
+Download the code:
+```
+git clone git@github.com:juliofmendes/Instagram-post-generator-IGPG.git
+```
+To instal PIL (Python Imaging Library):
+```
+pip install pillow
+```
+## How to use
+```
+python IGPG.py
+```
+
+## Features
+- 
+
+
+## ToDo
+* [ ] - Create a ...
+
+---
+#### Disclaimer
+- 
