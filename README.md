@@ -59,8 +59,9 @@ python IGPG.py
 
 ## Changelog
 
-#### V2.8
-Fix error com captura do nome sem virgula.
+#### V2.8 - Tratamento na captura do nome sem virgula. Correção do erro.
+  <details>
+  <summary>Versões Antigas</summary>
 
 V2.7 - melhorada a captura para as tags na m3u e salvamento, agora sem erro. Resolvido o problema de salvamento dos arquivos offline na lista. Retirado a repetição do ultimo item.
 
@@ -76,7 +77,8 @@ V1.7 - Adicionado cores e inicio da interface visual.
 
 V1.5 - Este código adiciona a capacidade de selecionar qual arquivo M3U deseja-se analisar, ao listar todos os arquivos M3U encontrados na pasta atual e pedir ao usuário para escolher um. Ele também fornece uma mensagem quando o processo estiver concluído, incluindo a quantidade de arquivos online e offline. Além disso, ele adiciona uma contagem em tempo real dos arquivos analisados e quantidade de arquivos salvo nos arquivos de texto.
 
-V1.0 - Básico e inicial.
+V1.0 - Básico e inicial.  
+</details>
 
 #### Disclaimer
 - 
