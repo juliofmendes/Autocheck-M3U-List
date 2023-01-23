@@ -36,7 +36,7 @@ python Autocheck_m3u.py
 ```
 
 ## Features
-- Tratamento para não haver copias caso o link estaja em várias listas.
+- Faz muito... ponho já
 
 
 ## ToDo
