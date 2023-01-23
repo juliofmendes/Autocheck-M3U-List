@@ -13,13 +13,15 @@ Once the file is selected, it opens the file and parses the links, if the link i
 It also prints the status of the links, if it's online or offline.
 
 Overall, this script can be useful for checking the availability of links in an M3U file, which can be useful for IPTV streaming, for example.
-
+  
+  <details>
+  <summary>Português</summary>
 Este script verifica a disponibilidade de links em um arquivo M3U enviando uma solicitação HEAD para cada link usando a função requests.head(). Um arquivo M3U é um arquivo de texto simples que contém uma lista de URLs, geralmente usado para streaming IPTV.
 
 O script começa definindo uma função chamada check_online() que recebe um arquivo M3U como argumento. Ele então inicializa duas listas, online_list e offline_list, e uma variável de contagem count.
 
 Ele abre o arquivo M3U passado como argumento e lê suas linhas. Ele então itera através de cada linha do arquivo. Se a linha começa com "#EXTINF", ele usa expressões regulares para extrair o nome, tvg-id, tvg-logo e group-title da linha. Se a linha começa com "http", é considerada um link e o script envia uma solicitação HEAD para o link usando a função `requests.head()
-
+</details>
 
 #### Screenshots
 <img src="https://github.com/juliofmendes/Autocheck-M3U-List/blob/main/Screenshot_03.png?raw=true" width="30%" height="30%">     <img src="https://github.com/juliofmendes/Autocheck-M3U-List/blob/main/Screenshot_01.png?raw=true" width="30%" height="30%">     <img src="https://github.com/juliofmendes/Autocheck-M3U-List/blob/main/Screenshot_02.png?raw=true" width="30%" height="30%">
