@@ -32,29 +32,10 @@ Download the code:
 
 
 ## Features
-- Analisa listas no formato `.m3u` e verifica se seus links estão Online ou Offline
-- ![#f03c15] aaa (https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) aa`#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`aa
-- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
-diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-- `Arquivos_Salvos`
-`Listas_Vistas`
-`offline_list`
-`online_list`
-`Hecko_BR_Completa`
+- Analisa listas no formato `.m3u` e verifica se seus links estão Online ou Offline;
+- Apresenta quais status cada link tem por cores;
+- Apresenta a contagem geral de quantos links foram analisados e de quantos links já foram salvos na lista `Hecko_BR_Completa.m3u`
+- Salva os arquivos Onlines no arquivo `online_list`, para controle, e exporta para uma nova lista chamada `Hecko_BR_Completa.m3u`. Os arquivos offlines são salvos no arquivo `offline_list`. Todos se encontram na pasta `Arquivos_Salvos`.
 
 
 ## ToDo
@@ -83,14 +64,3 @@ V1.5 - Este código adiciona a capacidade de selecionar qual arquivo M3U deseja-
 
 V1.0 - Básico e inicial.  
 </details>
-
-
-
-## Learn more
-
-| Section | Description |
-|-|-|
-| [Documentation](https://huggingface.co/docs/transformers/) | Full API documentation and tutorials |
-| [Task summary](https://huggingface.co/docs/transformers/task_summary) | Tasks supported by 🤗 Transformers |
-| [Model sharing and uploading](https://huggingface.co/docs/transformers/model_sharing) | Upload and share your fine-tuned models with the community |
-| [Migration](https://huggingface.co/docs/transformers/migration) | Migrate to 🤗 Transformers from `pytorch-transformers` or `pytorch-pretrained-bert` |
