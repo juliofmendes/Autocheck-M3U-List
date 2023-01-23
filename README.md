@@ -14,11 +14,27 @@ It also prints the status of the links, if it's online or offline.
 
 Overall, this script can be useful for checking the availability of links in an M3U file, which can be useful for IPTV streaming, for example.
 
+<details>
+  <summary>Screenshots</summary>
+  
 <img src="https://github.com/juliofmendes/Instagram-post-generator-IGPG/blob/main/example_line_7.jpg" width="500" height="500">
 <img src="https://github.com/juliofmendes/Instagram-post-generator-IGPG/blob/main/example_line_7.jpg" width="500" height="500">
 <img src="https://github.com/juliofmendes/Instagram-post-generator-IGPG/blob/main/example_line_7.jpg" width="500" height="500">
+  
+</details>
 
 
+
+<details>
+  <summary>Spoiler warning</summary>
+  
+  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
+  
+  ```javascript
+  console.log("I'm a code block!");
+  ```
+  
+</details>
 ## How to Instal
 
 Download the code:
