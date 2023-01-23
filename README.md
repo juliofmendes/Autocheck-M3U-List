@@ -26,9 +26,15 @@ git clone git@github.com:juliofmendes/Autocheck-M3U-List.git
 ```
 
 ## How to use
-```
-python Autocheck_m3u.py
-```
+
+1. Copie uma ou mais listas M3U (`.m3u`) para a pasta `Listas_Novas`
+2. ``` python Autocheck_m3u.py ```
+`Arquivos_Salvos`
+`Listas_Vistas`
+`offline_list`
+`online_list`
+`Hecko_BR_Completa`
+.m3u
 
 ## Features
 - Faz muito... ponho já
@@ -59,3 +65,14 @@ V1.5 - Este código adiciona a capacidade de selecionar qual arquivo M3U deseja-
 
 V1.0 - Básico e inicial.  
 </details>
+
+
+
+## Learn more
+
+| Section | Description |
+|-|-|
+| [Documentation](https://huggingface.co/docs/transformers/) | Full API documentation and tutorials |
+| [Task summary](https://huggingface.co/docs/transformers/task_summary) | Tasks supported by 🤗 Transformers |
+| [Model sharing and uploading](https://huggingface.co/docs/transformers/model_sharing) | Upload and share your fine-tuned models with the community |
+| [Migration](https://huggingface.co/docs/transformers/migration) | Migrate to 🤗 Transformers from `pytorch-transformers` or `pytorch-pretrained-bert` |
