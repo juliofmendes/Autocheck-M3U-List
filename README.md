@@ -14,7 +14,7 @@ It also prints the status of the links, if it's online or offline.
 
 Overall, this script can be useful for checking the availability of links in an M3U file, which can be useful for IPTV streaming, for example.
 
-<img src="https://github.com/juliofmendes/Instagram-post-generator-IGPG/blob/main/example_line_7.jpg" width="300" height="300"><img src="https://github.com/juliofmendes/Instagram-post-generator-IGPG/blob/main/example_line_7.jpg" width="300" height="300">
+<img src="https://github.com/juliofmendes/Instagram-post-generator-IGPG/blob/main/example_line_7.jpg" width="300" height="300"><img src="https://github.com/juliofmendes/Instagram-post-generator-IGPG/blob/main/example_line_7.jpg" width="300" height="300"><img src="https://github.com/juliofmendes/Instagram-post-generator-IGPG/blob/main/example_line_7.jpg" width="300" height="300">
 
 
 ## How to Instal
