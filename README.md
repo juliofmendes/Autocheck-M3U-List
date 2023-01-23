@@ -17,41 +17,26 @@ Overall, this script can be useful for checking the availability of links in an 
 <details>
   <summary>Screenshots</summary>
   
-<img src="https://github.com/juliofmendes/Instagram-post-generator-IGPG/blob/main/example_line_7.jpg" width="500" height="500">
-<img src="https://github.com/juliofmendes/Instagram-post-generator-IGPG/blob/main/example_line_7.jpg" width="500" height="500">
-<img src="https://github.com/juliofmendes/Instagram-post-generator-IGPG/blob/main/example_line_7.jpg" width="500" height="500">
+<img src="https://github.com/juliofmendes/Autocheck-M3U-List/blob/main/Screenshot_03.png?raw=true" width="500" height="500">
+<img src="https://github.com/juliofmendes/Autocheck-M3U-List/blob/main/Screenshot_01.png?raw=true" width="500" height="500">
+<img src="https://github.com/juliofmendes/Autocheck-M3U-List/blob/main/Screenshot_01.png?raw=true" width="500" height="500">
   
 </details>
 
-
-
-<details>
-  <summary>Spoiler warning</summary>
-  
-  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
-  
-  ```javascript
-  console.log("I'm a code block!");
-  ```
-  
-</details>
 ## How to Instal
 
 Download the code:
 ```
-git clone git@github.com:juliofmendes/Instagram-post-generator-IGPG.git
+git clone git@github.com:juliofmendes/Autocheck-M3U-List.git
 ```
-To instal PIL (Python Imaging Library):
-```
-pip install pillow
-```
+
 ## How to use
 ```
-python IGPG.py
+python Autocheck_m3u.py
 ```
 
 ## Features
-- 
+- Tratamento para não haver copias caso o link estaja em várias listas.
 
 
 ## ToDo
@@ -79,6 +64,3 @@ V1.5 - Este código adiciona a capacidade de selecionar qual arquivo M3U deseja-
 
 V1.0 - Básico e inicial.  
 </details>
-
-#### Disclaimer
-- 
