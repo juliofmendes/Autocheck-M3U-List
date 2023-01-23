@@ -55,12 +55,27 @@ python IGPG.py
 
 
 ## ToDo
-* [ ] - Create a ...
+* [ ] - Criar looping para retirar os similares
 
----
 ## Changelog
-* [x] - Create a ...
----
----
+
+V2.8 - Fix error com captura do nome sem virgula.
+
+V2.7 - melhorada a captura para as tags na m3u e salvamento, agora sem erro. Resolvido o problema de salvamento dos arquivos offline na lista. Retirado a repetição do ultimo item.
+
+V2.5 - Restruturado para armazenar as tags da lista m3u e organizado a forma de salvamento. Agora gera a lista M3U com os links online.
+
+V2.1 - Tradução para PT-BR. 
+
+V2.0 - Adicionado recursos para salvar arquivos na pasta "Arquivos_Salvos" e leitura de listas na pasta  "Listas_Novas”. Ajustes na contagem de linhas será feita no arquivo correto salvo na pasta "Arquivos_Salvos" e evitará o erro.
+
+V1.8 - Adicionado correção da quantidade total já salva.
+
+V1.7 - Adicionado cores e inicio da interface visual.
+
+V1.5 - Este código adiciona a capacidade de selecionar qual arquivo M3U deseja-se analisar, ao listar todos os arquivos M3U encontrados na pasta atual e pedir ao usuário para escolher um. Ele também fornece uma mensagem quando o processo estiver concluído, incluindo a quantidade de arquivos online e offline. Além disso, ele adiciona uma contagem em tempo real dos arquivos analisados e quantidade de arquivos salvo nos arquivos de texto.
+
+V1.0 - Básico e inicial.
+
 #### Disclaimer
 - 
