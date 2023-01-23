@@ -21,27 +21,28 @@ Overall, this script can be useful for checking the availability of links in an 
 ## How to Instal
 
 Download the code:
-```
-git clone git@github.com:juliofmendes/Autocheck-M3U-List.git
-```
+`git clone git@github.com:juliofmendes/Autocheck-M3U-List.git`
+
 
 ## How to use
 
-1. Copie uma ou mais listas M3U (`.m3u`) para a pasta `Listas_Novas`
-2. ``` python Autocheck_m3u.py ```
-`Arquivos_Salvos`
+1. Copie uma ou mais listas M3U (`.m3u`) para a pasta `Listas_Novas`;
+2. Execute o comando `python Autocheck_m3u.py` no terminal;
+3. Siga as orientações do programa.
+
+
+## Features
+- Analisa listas no formato `.m3u` e verifica se seus links estão  `#0969DA`Online ou Offline
+- `Arquivos_Salvos`
 `Listas_Vistas`
 `offline_list`
 `online_list`
 `Hecko_BR_Completa`
-.m3u
-
-## Features
-- Faz muito... ponho já
 
 
 ## ToDo
 * [ ] - Criar looping para retirar os similares
+
 
 ## Changelog
 
