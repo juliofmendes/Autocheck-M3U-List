@@ -32,7 +32,7 @@ Download the code:
 
 
 ## Features
-- Analisa listas no formato `.m3u` e verifica se seus links estão  `#0969DA`Online ou Offline
+- Analisa listas no formato `.m3u` e verifica se seus links estão {c:green}Online{/c} ou {c:red}Offline{/c}
 - `Arquivos_Salvos`
 `Listas_Vistas`
 `offline_list`
