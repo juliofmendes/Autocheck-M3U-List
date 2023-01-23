@@ -59,7 +59,7 @@ python IGPG.py
 
 ## Changelog
 
-###V2.8
+####V2.8
 Fix error com captura do nome sem virgula.
 
 V2.7 - melhorada a captura para as tags na m3u e salvamento, agora sem erro. Resolvido o problema de salvamento dos arquivos offline na lista. Retirado a repetição do ultimo item.
